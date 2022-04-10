@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AnimalTaskVS/1.0.0": {
+        "runtime": {
+          "AnimalTaskVS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnimalTaskVS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

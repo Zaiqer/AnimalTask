@@ -1,0 +1,16 @@
+C:\Users\Elshan\Desktop\AnimalTaskVS\AnimalTaskVS\bin\Debug\net5.0\AnimalTaskVS.exe
+C:\Users\Elshan\Desktop\AnimalTaskVS\AnimalTaskVS\bin\Debug\net5.0\AnimalTaskVS.deps.json
+C:\Users\Elshan\Desktop\AnimalTaskVS\AnimalTaskVS\bin\Debug\net5.0\AnimalTaskVS.runtimeconfig.json
+C:\Users\Elshan\Desktop\AnimalTaskVS\AnimalTaskVS\bin\Debug\net5.0\AnimalTaskVS.runtimeconfig.dev.json
+C:\Users\Elshan\Desktop\AnimalTaskVS\AnimalTaskVS\bin\Debug\net5.0\AnimalTaskVS.dll
+C:\Users\Elshan\Desktop\AnimalTaskVS\AnimalTaskVS\bin\Debug\net5.0\ref\AnimalTaskVS.dll
+C:\Users\Elshan\Desktop\AnimalTaskVS\AnimalTaskVS\bin\Debug\net5.0\AnimalTaskVS.pdb
+C:\Users\Elshan\Desktop\AnimalTaskVS\AnimalTaskVS\obj\Debug\net5.0\AnimalTaskVS.csproj.AssemblyReference.cache
+C:\Users\Elshan\Desktop\AnimalTaskVS\AnimalTaskVS\obj\Debug\net5.0\AnimalTaskVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elshan\Desktop\AnimalTaskVS\AnimalTaskVS\obj\Debug\net5.0\AnimalTaskVS.AssemblyInfoInputs.cache
+C:\Users\Elshan\Desktop\AnimalTaskVS\AnimalTaskVS\obj\Debug\net5.0\AnimalTaskVS.AssemblyInfo.cs
+C:\Users\Elshan\Desktop\AnimalTaskVS\AnimalTaskVS\obj\Debug\net5.0\AnimalTaskVS.csproj.CoreCompileInputs.cache
+C:\Users\Elshan\Desktop\AnimalTaskVS\AnimalTaskVS\obj\Debug\net5.0\AnimalTaskVS.dll
+C:\Users\Elshan\Desktop\AnimalTaskVS\AnimalTaskVS\obj\Debug\net5.0\ref\AnimalTaskVS.dll
+C:\Users\Elshan\Desktop\AnimalTaskVS\AnimalTaskVS\obj\Debug\net5.0\AnimalTaskVS.pdb
+C:\Users\Elshan\Desktop\AnimalTaskVS\AnimalTaskVS\obj\Debug\net5.0\AnimalTaskVS.genruntimeconfig.cache
